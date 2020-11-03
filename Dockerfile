@@ -1,4 +1,4 @@
-# Version: 0.0.8
+ Version: 0.0.2
 FROM ubuntu:14.04
 MAINTAINER Jing Xuan "cbb107018@nptu.edu.tw"
 RUN apt-get update
